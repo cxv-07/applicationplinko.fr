@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plinko Stake: Jouez au Stake Plinko et Version en Ligne on applicationplinko</title>
-    <link>http://localhost:1313/stake/</link>
+    <link>https://applicationplinko.fr/stake/</link>
     <description>Recent content in Plinko Stake: Jouez au Stake Plinko et Version en Ligne on applicationplinko</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/stake/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://applicationplinko.fr/stake/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
